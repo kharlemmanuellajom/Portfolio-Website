@@ -77,13 +77,14 @@ export const projects = [
     href: 'https://coffee-shop-website-lake.vercel.app/'
   },
   {
-    title: 'Wolf, Goat, and Door Alarm System',
-    type: 'Logic Circuit Prototype',
-    image: '/assets/lcd-project.jpg',
-    year: 'Hardware Project',
+    title: 'PUP Vicinity Map',
+    type: 'Interactive PUP vicinity Map',
+    image: '/assets/MAP.png',
+    year: 'Academic Activity',
     description:
-      'A combinational-logic inspired hazard detection prototype that translates scenario conditions into alarm behavior.',
-    tags: ['Logic Design', 'Prototype', 'Systems'],
+      'An Interactive Vicinity Map of the PUP - Sta Mesa campus that is made for Web and Mobile Systems Subject (Web Application)',
+    tags: ['UI Flow', 'Web App', 'Website'],
+    href: 'https://pup-navigation-map.vercel.app/'
   },
   {
     title: 'PUP Hymn Player',
