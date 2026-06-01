@@ -74,7 +74,7 @@ export const projects = [
     description:
       'A coffee shop website that made for Web and Mobile Systems Subject (Web Application)',
     tags: ['UI Flow', 'Web App', 'Website'],
-    href: 'https://github.com/kharlemmanuellajom'
+    href: 'https://coffee-shop-website-lake.vercel.app/'
   },
   {
     title: 'Wolf, Goat, and Door Alarm System',
