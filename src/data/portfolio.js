@@ -94,7 +94,7 @@ export const projects = [
     description:
       'A custom audio-player interface designed to present the PUP Hymn with a structured media layout.',
     tags: ['HTML', 'CSS', 'Media UI'],
-    href: 'https://coffee-shop-website-lake.vercel.app/'
+    href: 'https://pup-hymn-eight.vercel.app/'
   }
 ];
 
